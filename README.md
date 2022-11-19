@@ -3,6 +3,8 @@ SMART SOLUTION FOR RAILWAYS:
 The future of the railway industry is expected to rely upon smart transportation systems that leverage technologies over a large rail network infrastructure 
 to reduce its life-cycle cost.Smart Solutions for railways is designed to reduced the work load of the user and also the use of paper. Here in this project 
 we have all the features shown below.
+
+
 Features:
   1.A Web page is designed for the public where they can book tickets by seeing the available seats.
 
@@ -14,7 +16,12 @@ Features:
 
   5.All the booking details of the customers will be stored in the database with a unique ID and they can be retrieved back when the Ticket Collector scans the QR Code.
   
+  
+  
 TEAM LEADER: INDHUJA S
+
 TEAM MEMBER 1: MUTHULAKSHMI M
+
 TEAM MEMBER 2: SUGASRI R
+
 TEAM MEMBER 3: PRATHIKSHA B
