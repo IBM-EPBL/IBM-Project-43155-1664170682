@@ -6,6 +6,7 @@ we have all the features shown below.
 
 
 Features:
+
   1.A Web page is designed for the public where they can book tickets by seeing the available seats.
 
   2.After booking the train, the person will get a QR code which has to be shown to the Ticket Collector while boarding the train.
